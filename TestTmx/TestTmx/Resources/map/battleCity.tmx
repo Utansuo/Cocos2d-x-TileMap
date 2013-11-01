@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="48" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="ruinstage2_2" tilewidth="2048" tileheight="1536">
+  <image source="ruinstage2_2.png" width="2048" height="1536"/>
+ </tileset>
+ <tileset firstgid="2" name="CutsceneBottomBg" tilewidth="32" tileheight="32">
+  <image source="CutsceneBottomBg.png" width="100" height="126"/>
+ </tileset>
+ <layer name="BG" width="64" height="48">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAiDXv/Ri6AEJSAAAAAAAAAAAAAAAYN+1A2UPMQAAAg==
+  </data>
+ </layer>
+ <layer name="collider" width="64" height="48" opacity="0">
+  <properties>
+   <property name="collider" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmMEOhDAIRHvy/z95r8Z0KwwzFBUSTltgXqlF9xhjHO3t7e3t7e3tH/QhzHu23ZwrjWr2man20lMT0cJgt9REYr0xVi1sdktNTwxay6plxx4gHN46Fh2KuDuNHgYG/2yN5Tf1+bDWQWNX61fxHm2MPVD0nsV/V4OxB+r+I/1FtXr5o3sb5f+XK8MQdoQf1aQ01rPE5j/ntKyL5Gc8Q0/iZ/XcmreSRZ5xtFYVy+K+1pvVzzY1+2omzDSs9Cks49xHeq2+M7z8DA1Z9z+S86v819zKebXz/q8wf5u/1vzPttWsy67JyOnN/Qb+yB35lvOP7gGD/y5e/d4UqZPBb621Yx5k9cSz9i38T7hb1PzV7Qk9UlqFd9B/lqGrOju7Pxnf1Axj6fL8l9D8dWZwBf6v+A+u3yCV
+  </data>
+ </layer>
+</map>
